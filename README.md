@@ -58,3 +58,7 @@ npm run stream "Marie Curie"
 ```
 
 Die Anwendung generiert strukturierte Informationen zur angegebenen Persönlichkeit im JSON-Format.
+
+## Lizenz
+
+MIT

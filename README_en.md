@@ -58,3 +58,7 @@ npm run stream "Marie Curie"
 ```
 
 The application generates structured information about the specified historical figure in JSON format.
+
+## License
+
+MIT
