@@ -30,6 +30,8 @@ OLLAMA_MODEL=qwen2.5-coder:14b
 
 ## Verwendung
 
+### Standard-Modus
+
 Ohne Parameter (generiert Infos zu Albert Einstein):
 ```bash
 npm start
@@ -40,6 +42,19 @@ Mit Angabe einer historischen Persönlichkeit:
 npm start "Marie Curie"
 npm start "Leonardo da Vinci"
 npm start "Konrad Adenauer"
+```
+
+### Streaming-Modus
+
+Zeigt die Token des LLM live während der Generierung an:
+
+```bash
+npm run stream
+```
+
+Mit Angabe einer historischen Persönlichkeit:
+```bash
+npm run stream "Marie Curie"
 ```
 
 Die Anwendung generiert strukturierte Informationen zur angegebenen Persönlichkeit im JSON-Format.
