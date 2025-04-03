@@ -1,5 +1,5 @@
 {
-  "name": "llm-json-app",
+  "name": "ollma-prompt-template-example",
   "version": "1.0.0",
   "description": "Application that sends prompts to local Ollama LLM and receives JSON responses",
   "main": "src/index.js",
