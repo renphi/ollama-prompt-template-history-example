@@ -1,0 +1,34 @@
+# Ignore all log files
+*.log
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore .env file
+.env
+
+# Ignore build and dist folders
+build/
+dist/
+
+# Ignore all .DS_Store files
+.DS_Store
+
+# Ignore all .idea folders created by JetBrains IDEs
+.idea/
+
+# Ignore all temp files
+*.tmp
+
+# Ignore all .bak files
+*.bak
+
+# Ignore all .swp files created by Vim editor
+*.swp
+
+# Ignore all .sublime-project and .sublime-workspace files
+*.sublime-project
+*.sublime-workspace
+
+# Ignore all .vscode folder created by Visual Studio Code
+.vscode/
