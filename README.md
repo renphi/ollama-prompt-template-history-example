@@ -15,6 +15,8 @@ NodeJS-Anwendung zur Generierung strukturierter JSON-Daten über historische Per
 
 ## Installation
 
+Für eine detaillierte Installationsanleitung, siehe [INSTALL.md](INSTALL.md).
+
 ```bash
 npm install
 ```

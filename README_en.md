@@ -15,6 +15,8 @@ NodeJS application for generating structured JSON data about historical figures 
 
 ## Installation
 
+For detailed installation instructions, see [INSTALL_en.md](INSTALL_en.md).
+
 ```bash
 npm install
 ```
